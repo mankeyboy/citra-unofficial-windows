@@ -39,6 +39,10 @@ This also needs a 'user' folder in the top level directory.
     - It didn't work very well on my Nvidia 960M but worked splendidly on my Skylake i7 6700K
 7.  Yes, the games crash sometimes. This is still in development. No stable release has been made.
 
+#### Personal README over, the rest is the README from the original repo
+
+
+
 # lemonbot merge log
 
 Scroll down for the original README.md!
