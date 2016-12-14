@@ -20,6 +20,25 @@ This also needs a 'user' folder in the top level directory.
     - If you are inside KGP, check out mankey_boy on DC++
 4. I'll suggest modifying the qt-config.ini file inside user/config/ to point to your 3DS ROMs directory.
 
+### Problems and Issues
+
+1. Pokemon X and Y need a savefile.
+    - For people inside KGP, you might get lucky in the 'user' folder you get.
+    - For people outside, checkout youtube, there are a few videos with the links of the savefiles in the description.
+    - It still is buggy as hell and I haven't been able to make it run beyond a single battle.
+    - If I find a solution in some build, I'll update this build. If you find something, feel free to message a link to me.
+2.  Sun and Moon run slow. Yes, I know. I'm trying to tweak things to make it run better.
+3.  ORAS might or might not crash at Petalburg. I haven't reached that stage. There are tonnes of fixes online.
+4.  For people testing with their personally downloaded roms: 
+    - [This](http://www.3dsdb.com/) link lista all the versions of all games for all regions according to their 3DS GameID. 
+    - You'll be able to figure out your GameIDs from the 'user/..../title/00004000/' folder.
+5.  Games other than these haven't been tested properly enough for me to comment.
+    - If you do, feel free to modify the README and send along a PR.
+6. This emulator needs a strong PC for it to work decently. 
+    - Runs fastest with the integrated graphics. 
+    - It didn't work very well on my Nvidia 960M but worked splendidly on my Skylake i7 6700K
+7.  Yes, the games crash sometimes. This is still in development. No stable release has been made.
+
 # lemonbot merge log
 
 Scroll down for the original README.md!
