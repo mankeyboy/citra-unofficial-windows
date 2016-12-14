@@ -3,7 +3,7 @@
 This is being maintained from a fork of the Citra Bleeding Edge build 0.1.86.  
 As and when I update the build, I'll modify the build number.
 
-Checkout the @master-windows and the @master-linux branch to see the actual files for either of the two OS.  
+Checkout the @master-windows to see the actual files for either of the two OS.  
 This just has a readme and is mainly to ease my life with the limited git knowledge I have.  
 
 This also needs a 'user' folder in the top level directory.
