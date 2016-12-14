@@ -5,6 +5,11 @@ As and when I update the build, I'll modify the build number.
 
 This also needs a 'user' folder in the top level directory.
 
+## This will only run on Windows 64 bit PC.
+
+If you find errors, google it to troubleshoot. All of the errors are mostly commonplace. 
+If this doesn't work, try downloading another original build of Citra and copy the user folder there.
+
 ### Basic Steps for Running
 
 1. Clone this folder to either the Desktop or C:/Users/'Username'/AppData/Local/citra/
