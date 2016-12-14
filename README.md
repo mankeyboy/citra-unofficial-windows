@@ -41,8 +41,6 @@ This also needs a 'user' folder in the top level directory.
 
 #### Personal README over, the rest is the README from the original repo
 
-
-
 # lemonbot merge log
 
 Scroll down for the original README.md!
