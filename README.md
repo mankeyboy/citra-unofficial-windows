@@ -3,8 +3,6 @@
 This is being maintained from a fork of the Citra Bleeding Edge build 0.1.86.  
 As and when I update the build, I'll modify the build number.
 
-This just has a readme and is mainly to ease my life with the limited git knowledge I have.  
-
 This also needs a 'user' folder in the top level directory.
 
 ### Basic Steps for Running
