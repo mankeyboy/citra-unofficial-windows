@@ -27,7 +27,7 @@ This also needs a 'user' folder in the top level directory.
 2.  Sun and Moon run slow. Yes, I know. I'm trying to tweak things to make it run better.
 3.  ORAS might or might not crash at Petalburg. I haven't reached that stage. There are tonnes of fixes online.
 4.  For people testing with their personally downloaded roms: 
-    - [This](http://www.3dsdb.com/) link lista all the versions of all games for all regions according to their 3DS GameID. 
+    - [This](http://www.3dsdb.com/) link lists all the versions of all games for all regions according to their 3DS GameID. 
     - You'll be able to figure out your GameIDs from the 'user/..../title/00004000/' folder.
 5.  Games other than these haven't been tested properly enough for me to comment.
     - If you do, feel free to modify the README and send along a PR.
