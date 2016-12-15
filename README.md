@@ -43,6 +43,7 @@ If this doesn't work, try downloading another original build of Citra and copy t
 
 #### Personal README over, the rest is the README from the original repo
 
+-------------------------------------------------------------------------------
 
 # lemonbot merge log
 
