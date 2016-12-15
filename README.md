@@ -13,7 +13,7 @@ If this doesn't work, try downloading another original build of Citra and copy t
 ### Basic Steps for Running
 
 1. Clone this folder to either the Desktop or C:/Users/'Username'/AppData/Local/citra/ OR according to the latest documentation from citra:
-    - copy the contents of a user directory to C:/Users/'UserName'/AppData/Roaming/Citra
+    - copy the contents(sub directory) of a user directory to C:/Users/'UserName'/AppData/Roaming/Citra
 2. Find a decrypted 3ds ROM or dump it yourself from a 3ds and decrypt it.
 3. Find a 'user' folder and copy it into the top level directory of the cloned repo.
     - This repo is absolutely necessary for playing anything other than homebrews since a commercial 3DS has this folder, which is the same reason why my version can't be shared publicly.
