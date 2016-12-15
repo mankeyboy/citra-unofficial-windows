@@ -16,7 +16,7 @@ If this doesn't work, try downloading another original build of Citra and copy t
     - copy the contents(sub directory) of a user directory to C:/Users/'UserName'/AppData/Roaming/Citra
 2. Find a decrypted 3ds ROM or dump it yourself from a 3ds and decrypt it.
 3. Find a 'user' folder and copy it into the top level directory of the cloned repo.
-    - This repo is absolutely necessary for playing anything other than homebrews since a commercial 3DS has this folder, which is the same reason why my version can't be shared publicly.
+    - This folder is absolutely necessary for playing anything other than homebrews since a commercial 3DS has this folder, which is the same reason why my version can't be shared publicly.
     - This folder maintains savedata for all the games, so all your savefiles will be maintained here
     - For finding this folder, google is your friend.
     - Also, your friends are your friends.
