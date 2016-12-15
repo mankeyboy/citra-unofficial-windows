@@ -1,6 +1,6 @@
 # Citra - Unofficial [Windows branch]
 
-This is being maintained from a fork of the Citra Bleeding Edge build 0.1.86.  
+This is being maintained from a fork of the Citra Bleeding Edge build 0.1.90.  
 As and when I update the build, I'll modify the build number.
 
 This also needs a 'user' folder in the top level directory.
@@ -12,7 +12,8 @@ If this doesn't work, try downloading another original build of Citra and copy t
 
 ### Basic Steps for Running
 
-1. Clone this folder to either the Desktop or C:/Users/'Username'/AppData/Local/citra/
+1. Clone this folder to either the Desktop or C:/Users/'Username'/AppData/Local/citra/ OR according to the latest documentation from citra:
+    - copy the contents of a user directory to C:/Users/'UserName'/AppData/Roaming/Citra
 2. Find a decrypted 3ds ROM or dump it yourself from a 3ds and decrypt it.
 3. Find a 'user' folder and copy it into the top level directory of the cloned repo.
     - This repo is absolutely necessary for playing anything other than homebrews since a commercial 3DS has this folder, which is the same reason why my version can't be shared publicly.
